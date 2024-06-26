@@ -1,7 +1,7 @@
 ## Hello, my name is Nikita!
 
 ### About Me
-    I am a beginner Back-End developer. I have already studied some technologies, which will be described below. I am a purposeful and ambitious person, and I am very interested in developing web applications. I started my journey from self-studying at 15 years old and tried creating different applications like TG bots, websites API etc. At the moment, I am studying Computer Science at university and developing applications using Java and Spring framework and continue to learn and progress development!
+I am a beginner Back-End developer. I have already studied some technologies, which will be described below. I am a purposeful and ambitious person, and I am very interested in developing web applications. I started my journey from self-studying at 15 years old and tried creating different applications like TG bots, websites API etc. At the moment, I am studying Computer Science at university and developing applications using Java and Spring framework and continue to learn and progress development!
 
 ### Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=openjdk&logoColor=F78C40)
